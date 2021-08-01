@@ -1,3 +1,7 @@
+This is a simple CRA app meant to test out Redux Toolkit Query. It fetches some random jokes depending on category from "https://jokeapi.dev/" and presents them in their representative category with a surrounding RGB effect ;-)
+
+Website can be seen here:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
